@@ -17,3 +17,4 @@ def test_embeddings_generation(test_client: TestClient) -> None:
   port: ${PORT:8001}
 
 ui:
+  enabled: true
