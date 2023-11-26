@@ -38,3 +38,4 @@ ui:
 
 llm:
   mode: mock
+
