@@ -50,3 +50,4 @@ sagemaker:
 
 openai:
   api_key: ${OPENAI_API_KEY:}server:
+  env_name: ${APP_ENV:prod}
