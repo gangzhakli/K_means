@@ -62,3 +62,4 @@ ui:
 
 llm:
   mode: mock
+
