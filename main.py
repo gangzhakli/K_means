@@ -88,3 +88,4 @@ ingest_service = root_injector.get(IngestService)
 parser = argparse.ArgumentParser(prog="ingest_folder.py")
 parser.add_argument("folder", help="Folder to ingest")
 parser.add_argument(
+    "--watch",
