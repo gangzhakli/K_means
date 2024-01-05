@@ -99,3 +99,4 @@ parser.add_argument(
     type=str,
     default=None,
 )
+args = parser.parse_args()
