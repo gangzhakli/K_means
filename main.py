@@ -101,3 +101,4 @@ parser.add_argument(
 )
 args = parser.parse_args()
 
+# Set up logging to a file if a path is provided
