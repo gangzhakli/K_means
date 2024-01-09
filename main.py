@@ -105,3 +105,4 @@ args = parser.parse_args()
 if args.log_file:
     file_handler = logging.FileHandler(args.log_file, mode="a")
     file_handler.setFormatter(
+        logging.Formatter(
