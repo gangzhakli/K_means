@@ -104,3 +104,4 @@ args = parser.parse_args()
 # Set up logging to a file if a path is provided
 if args.log_file:
     file_handler = logging.FileHandler(args.log_file, mode="a")
+    file_handler.setFormatter(
