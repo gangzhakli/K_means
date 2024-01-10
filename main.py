@@ -106,3 +106,4 @@ if args.log_file:
     file_handler = logging.FileHandler(args.log_file, mode="a")
     file_handler.setFormatter(
         logging.Formatter(
+            "[%(asctime)s.%(msecs)03d] [%(levelname)s] %(message)s",
