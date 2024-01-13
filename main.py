@@ -110,3 +110,4 @@ if args.log_file:
             datefmt="%Y-%m-%d %H:%M:%S",
         )
     )
+    logger.addHandler(file_handler)
