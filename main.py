@@ -113,3 +113,4 @@ if args.log_file:
     logger.addHandler(file_handler)
 
 
+total_documents = 0
