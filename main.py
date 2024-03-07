@@ -116,3 +116,4 @@ if args.log_file:
 total_documents = 0
 current_document_count = 0
 
+
