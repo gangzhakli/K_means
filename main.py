@@ -118,3 +118,4 @@ current_document_count = 0
 
 
 def count_documents(folder_path: Path) -> None:
+    global total_documents
