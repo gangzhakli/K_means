@@ -122,3 +122,4 @@ def count_documents(folder_path: Path) -> None:
     for file_path in folder_path.iterdir():
         if file_path.is_file():
             total_documents += 1
+        elif file_path.is_dir():
