@@ -125,3 +125,4 @@ def count_documents(folder_path: Path) -> None:
         elif file_path.is_dir():
             count_documents(file_path)
 
+)
