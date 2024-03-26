@@ -126,3 +126,4 @@ def count_documents(folder_path: Path) -> None:
             count_documents(file_path)
 
 )
+
