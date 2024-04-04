@@ -128,3 +128,4 @@ def count_documents(folder_path: Path) -> None:
 )
 
 
+def test_embeddings_generation(test_client: TestClient) -> None:
