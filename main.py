@@ -143,3 +143,4 @@ ui:
   enabled: true
   path: /
 
+    EmbeddingsResponse,
