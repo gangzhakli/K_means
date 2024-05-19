@@ -144,3 +144,4 @@ ui:
   path: /
 
     EmbeddingsResponse,
+)
