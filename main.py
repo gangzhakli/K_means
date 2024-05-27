@@ -152,3 +152,4 @@ def test_embeddings_generation(test_client: TestClient) -> None:
     response = test_client.post("/v1/embeddings", json=body.model_dump())
 
     assert response.status_code == 200
+    embedding_response = EmbeddingsResponse.model_validate(response.json())
