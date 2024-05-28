@@ -157,3 +157,4 @@ def test_embeddings_generation(test_client: TestClient) -> None:
     assert len(embedding_response.data[0].embedding) > 0server:
   env_name: ${APP_ENV:prod}
   port: ${PORT:8001}
+
