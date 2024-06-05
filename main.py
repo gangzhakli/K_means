@@ -160,3 +160,4 @@ def test_embeddings_generation(test_client: TestClient) -> None:
 
 ui:
   enabled: true
+  path: /
