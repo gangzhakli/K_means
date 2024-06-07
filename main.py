@@ -166,3 +166,4 @@ llm:
   mode: sagemaker
 
 sagemaker:
+  llm_endpoint_name: huggingface-pytorch-tgi-inference-2023-09-25-19-53-32-140
