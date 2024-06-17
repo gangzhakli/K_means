@@ -180,3 +180,4 @@ ui:
 
 llm:
   mode: mock
+
