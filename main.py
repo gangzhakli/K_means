@@ -197,3 +197,4 @@ openai:
 
 data:
   local_data_folder: local_data/private_gpt
+
