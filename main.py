@@ -202,3 +202,4 @@ ui:
   enabled: true
   path: /
 
+llm:
