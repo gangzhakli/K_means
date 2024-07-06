@@ -204,3 +204,4 @@ ui:
 
 llm:
   mode: mock
+
