@@ -211,3 +211,4 @@ local:
   embedding_hf_model_name: BAAI/bge-small-en-v1.5
 
 sagemaker:
+  llm_endpoint_name: huggingface-pytorch-tgi-inference-2023-09-25-19-53-32-140
