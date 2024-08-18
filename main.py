@@ -222,3 +222,4 @@ from pathlib import Path
 from private_gpt.di import root_injector
 from private_gpt.server.ingest.ingest_service import IngestService
 from private_gpt.server.ingest.ingest_watcher import IngestWatcher
+
