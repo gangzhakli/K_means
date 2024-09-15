@@ -240,3 +240,4 @@ parser.add_argument(
     help="Optional path to a log file. If provided, logs will be written to this file.",
     type=str,
     default=None,
+from private_gpt.server.embeddings.embeddings_router import (
