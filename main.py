@@ -270,3 +270,4 @@ sagemaker:
   env_name: ${APP_ENV:prod}
   port: ${PORT:8001}
 
+data:
