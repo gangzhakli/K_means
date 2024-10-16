@@ -271,3 +271,4 @@ sagemaker:
   port: ${PORT:8001}
 
 data:
+  local_data_folder: local_data/private_gpt
