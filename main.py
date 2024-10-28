@@ -276,3 +276,4 @@ data:
 ui:
   enabled: true
   path: /
+
