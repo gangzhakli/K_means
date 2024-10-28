@@ -278,3 +278,4 @@ ui:
   path: /
 
 llm:
+  mode: mock
