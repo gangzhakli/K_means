@@ -279,3 +279,4 @@ ui:
 
 llm:
   mode: mock
+
