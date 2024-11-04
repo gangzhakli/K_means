@@ -282,3 +282,4 @@ llm:
 
 local:
   llm_hf_repo_id: TheBloke/Mistral-7B-Instruct-v0.1-GGUF
+  llm_hf_model_file: mistral-7b-instruct-v0.1.Q4_K_M.gguf
