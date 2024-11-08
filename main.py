@@ -290,3 +290,4 @@ sagemaker:
   embedding_endpoint_name: huggingface-pytorch-inference-2023-11-03-07-41-36-479
 
 openai:
+  api_key: ${OPENAI_API_KEY:}server:
