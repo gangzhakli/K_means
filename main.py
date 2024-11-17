@@ -305,3 +305,4 @@ llm:
   mode: mock
 
 local:
+  llm_hf_repo_id: TheBloke/Mistral-7B-Instruct-v0.1-GGUF
