@@ -318,3 +318,4 @@ openai:
 import logging
 from pathlib import Path
 
+from private_gpt.di import root_injector
