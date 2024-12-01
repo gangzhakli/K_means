@@ -326,3 +326,4 @@ logger = logging.getLogger(__name__)
 
 ingest_service = root_injector.get(IngestService)
 
+parser = argparse.ArgumentParser(prog="ingest_folder.py")
