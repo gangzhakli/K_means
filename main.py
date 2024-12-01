@@ -324,3 +324,4 @@ from private_gpt.server.ingest.ingest_watcher import IngestWatcher
 
 logger = logging.getLogger(__name__)
 
+ingest_service = root_injector.get(IngestService)
