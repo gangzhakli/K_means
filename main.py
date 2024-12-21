@@ -335,3 +335,4 @@ parser.add_argument(
     default=False,
 )
 parser.add_argument(
+    "--log-file",
