@@ -340,3 +340,4 @@ parser.add_argument(
     type=str,
     default=None,
 from private_gpt.server.embeddings.embeddings_router import (
+    EmbeddingsBody,
