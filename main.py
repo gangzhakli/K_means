@@ -353,3 +353,4 @@ def test_embeddings_generation(test_client: TestClient) -> None:
     embedding_response = EmbeddingsResponse.model_validate(response.json())
     assert len(embedding_response.data) > 0
     assert len(embedding_response.data[0].embedding) > 0server:
+  env_name: ${APP_ENV:prod}
