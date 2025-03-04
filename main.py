@@ -378,3 +378,4 @@ ui:
 
 llm:
   mode: mock
+
