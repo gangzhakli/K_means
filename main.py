@@ -379,3 +379,4 @@ ui:
 llm:
   mode: mock
 
+local:
