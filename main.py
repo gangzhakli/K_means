@@ -432,3 +432,4 @@ parser.add_argument(
     help="Watch for changes",
     action=argparse.BooleanOptionalAction,
     default=False,
+)
