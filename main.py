@@ -436,3 +436,4 @@ parser.add_argument(
 parser.add_argument(
     "--log-file",
     help="Optional path to a log file. If provided, logs will be written to this file.",
+    type=str,
