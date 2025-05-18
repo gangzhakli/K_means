@@ -441,3 +441,4 @@ parser.add_argument(
 from private_gpt.server.embeddings.embeddings_router import (
     EmbeddingsBody,
     EmbeddingsResponse,
+)
