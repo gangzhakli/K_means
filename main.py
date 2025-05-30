@@ -451,3 +451,4 @@ def test_embeddings_generation(test_client: TestClient) -> None:
     assert response.status_code == 200
     embedding_response = EmbeddingsResponse.model_validate(response.json())
     assert len(embedding_response.data) > 0
+    assert len(embedding_response.data[0].embedding) > 0server:
