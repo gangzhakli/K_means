@@ -460,3 +460,4 @@ ui:
   path: /
 
 llm:
+  mode: sagemaker
