@@ -467,3 +467,4 @@ sagemaker:
   embedding_endpoint_name: huggingface-pytorch-inference-2023-11-03-07-41-36-479server:
   env_name: ${APP_ENV:prod}
   port: ${PORT:8001}
+
